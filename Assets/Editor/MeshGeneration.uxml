@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="height: auto;">
+        <Style src="MeshGeneration.uss" />
+        <ui:Label text="Label" style="align-items: center; -unity-text-align: middle-center; height: auto;" />
+        <ui:Button text="GENERATE" name="Generate" style="align-items: center; width: auto; height: auto; opacity: 1;" />
+    </ui:VisualElement>
+</ui:UXML>
